@@ -8,7 +8,7 @@ perform operation. there are several types of bitwise operator.</br>
  2.Bitwise OR(|)</br>
   The output of bitwise OR is 1 if at leat one corresponding bit of two operandddds is 1.It is denoted by (|).</br>
  3.Bitwise NOT(~)</br>
-  Bitwise NOT or complement operator is a unary operator. It chnages 1 to 0 and 0 to 1.<?br>
+  Bitwise NOT or complement operator is a unary operator. It chnages 1 to 0 and 0 to 1.</br>
  4.Right shift operator(>>)</br>
   Right shift operator shifts all bits towards right by certain number of specified bits. It is denoted by (>>).</br>
  5.Left shift operator</br>
